@@ -8,20 +8,21 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+Part A made the enemy move randomly by using random range and outputting a random number between -1 and 1 and using that to see where it moves. Part B adds an additional feature to the game. 
+
 #### Unique Feature
- < Describe the unique feature you added >
+ The enemy goes towards the player. 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 3
 
-Grace days remaining: < # >/5
+Grace days remaining: 0/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ The enemy moves a little too fast to be able to actually play the game. 
 
 ## REFERENCES:
- < List any outside resources used >
+ none
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ :)
